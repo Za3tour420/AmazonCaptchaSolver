@@ -1,0 +1,5 @@
+bs4
+undetected-chromedriver
+Pillow
+selenium
+easyocr
